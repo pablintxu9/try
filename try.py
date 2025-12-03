@@ -41,6 +41,15 @@ def mayus(lista):
 
 print(mayus(["paTATa", "Oro"]))  
 
+def pares(n):
+    if n%2==0:
+        return "es par"
+    else:
+        return "es impar"
+print(pares(2))
+
+
+
 
     
 
